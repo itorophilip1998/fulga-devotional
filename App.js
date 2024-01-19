@@ -12,7 +12,7 @@ import HomeIcon from 'react-native-vector-icons/Ionicons';
 import InboxIcon from 'react-native-vector-icons/Ionicons';
 
 export default function App() {
-  const [url, setUrl] = useState('http://192.168.1.185:3000/');
+  const [url, setUrl] = useState('https://devotional-beta.netlify.app');
   const [webKey, setWebKey] = useState(1);
   const [notInboxData, setNotInboxData] = useState([]);
   const [unreadNotificationCount, setUnreadNotificationCount] = useState(0);
