@@ -12,7 +12,7 @@ import HomeIcon from 'react-native-vector-icons/Ionicons';
 import InboxIcon from 'react-native-vector-icons/Ionicons';
 
 export default function App() {
-  const [url, setUrl] = useState('https://devotional-beta.netlify.app');
+  const [url, setUrl] = useState('http://devotional-beta.netlify.app');
   const [webKey, setWebKey] = useState(1);
   const [notInboxData, setNotInboxData] = useState([]);
   const [unreadNotificationCount, setUnreadNotificationCount] = useState(0);
@@ -77,7 +77,7 @@ export default function App() {
 const styles = StyleSheet.create({
   safeArea: {
     flex: 0,
-    backgroundColor: 'blue', // Set the background color to blue
+    // backgroundColor: 'blue', // Set the background color to blue
   },
 
   page: {
