@@ -10,7 +10,7 @@
       "image": "./assets/logos/splash_screen.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff",
-      "duration": 3000
+      "duration": 5000
     },
     "assetBundlePatterns": [
       "**/*"
