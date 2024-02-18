@@ -2,15 +2,15 @@
   "expo": {
     "name": "Fulga Devotional",
     "slug": "fulga-devotional",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "orientation": "portrait",
     "icon": "./assets/logos/app_icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/logos/splash_screen.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff",
-      "duration": 5000
+      "backgroundColor": "#ffffff"
+      
     },
     "assetBundlePatterns": [
       "**/*"
