@@ -25,7 +25,7 @@
         "backgroundColor": "#FFFFFF"
       },
       "package": "com.itkeyzz.fulgadevotional",
-      "versionCode": 6
+      "versionCode": 5
     },
     "web": {
       "favicon": "./assets/logos/app_icon.png"
@@ -36,7 +36,7 @@
       }
     },
     "plugins": [
-      [
+     [
         "expo-build-properties",
         {
           "android": {
